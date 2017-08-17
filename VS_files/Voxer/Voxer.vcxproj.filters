@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CWindow.cpp">
+      <Filter>Engine\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="CCamera.cpp">
+      <Filter>Engine\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="CLogic.cpp">
+      <Filter>Engine\CLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="CGraphic.cpp">
+      <Filter>Engine\Graphic</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Elementary</Filter>
+    </ClCompile>
+    <ClCompile Include="CApp.cpp">
+      <Filter>Elementary</Filter>
+    </ClCompile>
+    <ClCompile Include="CGame.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="CMesh.cpp">
+      <Filter>Engine\Graphic</Filter>
+    </ClCompile>
+    <ClCompile Include="CMenu.cpp">
+      <Filter>Game\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="CCursor.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="CButton.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="CIngame.cpp">
+      <Filter>Game\Ingame</Filter>
+    </ClCompile>
+    <ClCompile Include="CTurret.cpp">
+      <Filter>Game\Ingame</Filter>
+    </ClCompile>
+    <ClCompile Include="CMeteor.cpp">
+      <Filter>Game\Ingame</Filter>
+    </ClCompile>
+    <ClCompile Include="CBullet.cpp">
+      <Filter>Game\Ingame</Filter>
+    </ClCompile>
+    <ClCompile Include="CFont.cpp">
+      <Filter>Engine\Graphic</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevel.cpp">
+      <Filter>Game\Ingame</Filter>
+    </ClCompile>
+    <ClCompile Include="CBonus.cpp">
+      <Filter>Game\Ingame</Filter>
+    </ClCompile>
+    <ClCompile Include="CShop.cpp">
+      <Filter>Game\Ingame</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwitch.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="CHighscores.cpp">
+      <Filter>Game\Highscores</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameover.cpp">
+      <Filter>Game\Ingame</Filter>
+    </ClCompile>
+    <ClCompile Include="CAuthor.cpp">
+      <Filter>Game\Author</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CWindow.h">
+      <Filter>Engine\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="CCamera.h">
+      <Filter>Engine\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="CLogic.h">
+      <Filter>Engine\CLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="CGraphic.h">
+      <Filter>Engine\Graphic</Filter>
+    </ClInclude>
+    <ClInclude Include="declarations.h">
+      <Filter>Elementary</Filter>
+    </ClInclude>
+    <ClInclude Include="AppSettings.h">
+      <Filter>Elementary</Filter>
+    </ClInclude>
+    <ClInclude Include="CApp.h">
+      <Filter>Elementary</Filter>
+    </ClInclude>
+    <ClInclude Include="CMenu.h">
+      <Filter>Game\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="CGame.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CMesh.h">
+      <Filter>Engine\Graphic</Filter>
+    </ClInclude>
+    <ClInclude Include="CCursor.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CButton.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStatus.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CIngame.h">
+      <Filter>Game\Ingame</Filter>
+    </ClInclude>
+    <ClInclude Include="CTurret.h">
+      <Filter>Game\Ingame</Filter>
+    </ClInclude>
+    <ClInclude Include="CMeteor.h">
+      <Filter>Game\Ingame</Filter>
+    </ClInclude>
+    <ClInclude Include="CBullet.h">
+      <Filter>Game\Ingame</Filter>
+    </ClInclude>
+    <ClInclude Include="CFont.h">
+      <Filter>Engine\Graphic</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevel.h">
+      <Filter>Game\Ingame</Filter>
+    </ClInclude>
+    <ClInclude Include="CBonus.h">
+      <Filter>Game\Ingame</Filter>
+    </ClInclude>
+    <ClInclude Include="CShop.h">
+      <Filter>Game\Ingame</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwitch.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CHighscores.h">
+      <Filter>Game\Highscores</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameover.h">
+      <Filter>Game\Ingame</Filter>
+    </ClInclude>
+    <ClInclude Include="CAuthor.h">
+      <Filter>Game\Author</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{4c68bcf1-cc22-404d-aefb-87cb12c9ce86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Window">
+      <UniqueIdentifier>{0f880b23-4311-4711-828d-c71bb54cd7ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Camera">
+      <UniqueIdentifier>{2cf03a7c-7e37-4aed-a8b9-27294fcbdd7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\CLogic">
+      <UniqueIdentifier>{b0492b2b-8b3f-412c-999c-49717f9b78dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Graphic">
+      <UniqueIdentifier>{ee1061cd-4a2f-48df-97d0-fabbb8f20bd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Elementary">
+      <UniqueIdentifier>{d9c52374-b54d-42cc-95d7-e12a0e19a3c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{55069f2d-ec65-4466-aacd-20aef750bc27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Menu">
+      <UniqueIdentifier>{9ea2bb6d-aa51-45d5-9bbe-04ab3fcfc655}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Highscores">
+      <UniqueIdentifier>{7d18bf45-b7a2-483d-aad0-109a1c7bbc8e}</UniqueIdentifier>
+      <Extensions>
+      </Extensions>
+    </Filter>
+    <Filter Include="Game\Ingame">
+      <UniqueIdentifier>{5520ec2d-f94c-4872-b8b0-736047406891}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Author">
+      <UniqueIdentifier>{95a71e54-634d-485b-b014-a76ed3954052}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
