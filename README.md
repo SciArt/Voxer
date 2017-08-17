@@ -8,4 +8,4 @@ Comments and manual in polish.
 If you want to ask me something about this project feel free to contact me via e-mail: contact@science-artificer.com
 
 Screenshot:
-(https://raw.githubusercontent.com/SciArt/Voxer/master/voxer.png)
+![](https://raw.githubusercontent.com/SciArt/Voxer/master/voxer.png)
