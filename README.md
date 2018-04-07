@@ -5,7 +5,7 @@ Technologies: C++, SDL2, OpenGL
 
 Comments and manual in polish.
 
-If you want to ask me something about this project feel free to contact me via e-mail: contact@science-artificer.com
+If you want to ask me something about this project feel free to contact me via e-mail: contact@sci-art.net
 
 Screenshot:
 ![](https://raw.githubusercontent.com/SciArt/Voxer/master/voxer.png)
